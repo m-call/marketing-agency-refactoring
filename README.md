@@ -22,4 +22,4 @@ Refactoring the existing code of a marketing agency's website to make it more ac
 ## Functionality and Accessibility
 
 ## Screenshot
-![Alt text](/relative/path/to/01-html-css-git-homework-demo.png?raw=true "Picture of Company Website")
+![ScreenShot](assets/images/01-html-css-git-homework-demo.png)
